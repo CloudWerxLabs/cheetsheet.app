@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><defs><linearGradient id="keywhizGradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#3498db" /><stop offset="100%" stop-color="#2980b9" /></linearGradient></defs><rect width="512" height="512" fill="url(#keywhizGradient)" rx="50" ry="50" /><path d="M102.4,102.4 L409.6,102.4 L409.6,409.6 L102.4,409.6 Z M153.6,204.8 L358.4,204.8" fill="none" stroke="#ecf0f1" stroke-width="20" /></svg>
